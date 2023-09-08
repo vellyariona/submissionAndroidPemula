@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Somethinc Serum</string>
+
+    <string name="somethinc_name">Serum Somethinc</string>
+    <string name="description">Deskripsi</string>
+    <string name="app_title">SOMETHINC</string>
+    <string-array name="data_name">
+        <item>BAKUCHIOL Skinpair Oil Serum</item>
+        <item>5% Niacinamide Barrier Serum</item>
+        <item>2% BHA Salicylic Acid Acne Treatment</item>
+        <item>Dark Spot Reducer Ampoule</item>
+        <item>Salmon DNA + Marine Collagen Elixir</item>
+        <item>Holygrail Multipeptide Youth Elixir</item>
+        <item>Lemonade Waterless Vitamin C + Ferulic + NAG</item>
+        <item>HYALuronic9+ Advanced + B5 Serum</item>
+        <item>Level 1% Encapsulated Retinol</item>
+        <item>Calm Down! Skinpair Barrier Serum</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Natural Alternative for Antioxidant and Anti-Aging </item>
+        <item>Improve Skin Barrier, Skin Texture and Get Your Healthy Skin Back!</item>
+        <item>Treat Acne, Reduce Whiteheads, Blackheads, and Improve Skin Texture</item>
+        <item>Corrects Dark Spot and Hyperpigmentation</item>
+        <item>Focused % of Collagen Booster and Skin Regeneration</item>
+        <item>Get Your Youthful Skin Back In 15 Days! </item>
+        <item>Contains Ethyl Ascorbic Acid to Give Radiant Bright and Luminous Skin in 4 Weeks</item>
+        <item>Deeply Hydrate, Intensely Supple All Day</item>
+        <item>Level Up Your Skincare Game with Powerful Yet Gentle Encapsulated Retinol </item>
+        <item>Instantly Calms Redness and Angry Skin</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/a_bakuchiol</item>
+        <item>@drawable/b_niacinamide</item>
+        <item>@drawable/c_bha</item>
+        <item>@drawable/d_darkspot</item>
+        <item>@drawable/e_salmon</item>
+        <item>@drawable/f_holygrail</item>
+        <item>@drawable/g_lemonade</item>
+        <item>@drawable/h_hyalu</item>
+        <item>@drawable/i_retinol</item>
+        <item>@drawable/j_calm</item>
+    </integer-array>
+    <string-array name="data_detail">
+        <item>Serum Vegan yang menjadi alternatif retinol dari bahan natural untuk merawat jerawat sehingga cocok digunakan untuk seluruh jenis kulit bahkan direkomendasikan untuk kulit berminyak. Bakuchiol mampu menstimulasi pembentukan collagen memperbaiki tekstur kulit. Dikombinasikan dengan Salicylic Acid, serum ini mampu bekerja untuk menghilangkan beruntusan pada wajah, sehingga kulit menjadi halus, glowing, dan tampak kenyal. Cocok untuk pemula skincare, kulit sensitif, dan berjerawat.</item>
+        <item>5% Niacinamide Barrier Serum Serum Niacinamide dengan formulasi Vegan, 3 jenis Ceramide Rosa Damascena Water dapat memperkuat skin barrier, mencerahkan, menyamarkan noda hitam, mengurangi kemerahan melembabkan kulit. Cocok untuk semua jenis kulit kulit bruntusan.</item>
+        <item>Vegan Gentle Salicylic Acid Serum Somethinc dengan 4X Acne Combat untuk membantu mengurangi jerawat dan komedo sekaligus mencegah terbentuknya jerawat baru. Diformulasikan dengan Salicylic Acid yang lebih gentle untuk membersihkan pori tersumbat, mengangkat sel kulit mati, dan melawan bakteri penyebab jerawat; Hydrolyzed Algin dan Zinc Sulfate untuk mengurangi sebum berlebih; dan Poria Cocos yang menenangkan kemerahan sekaligus memperbaiki barrier kulit. Nyaman digunakan sehari-hari, tidak lengket, cocok untuk kulit berminyak dan cenderung berjerawat, sehingga cocok sebagai serum untuk kulit berjerawat.</item>
+        <item>PIH dan PIE Targeted Treatment Ampoule yang diformulasikan dengan kombinasi zat aktif yang teruji klinis, salah satunya adalah Tranexamoyl Dipeptide-23 yang bertindak sebagai double brightening effect tanpa mengiritasi kulit sehingga warna kulit lebih merata, lebih cerah, bekas jerawat dan flek hitam tersamarkan. Tingkat penyerapan dan efikasinya pun lebih tinggi dari Tranexamic Acid biasa. </item>
+        <item>Skin Booster Elixir dari laut dalam yang diformulasikan dengan 62% Deep Sea Water, Salmon DNA, Pseudoalteromonas Ferment Extract, Hydrolyzed Marine Collagen dan Pearl. Menjaga elastisitas kulit, Merevitalisasi tekstur kulit yang tidak merata, Meningkatkan produksi Kolagen 1 dan 4, Meregenerasi kulit, dan Menjadikan kulit bercahaya.</item>
+        <item>Anti Aging Elixir dengan 12 potent peptide yang membantu mengencangkan dan mengembalikan elastisitas kulit dengan mengurangi pergerakan otot yang meyebabkan kerutan dan garis halus. Diformulasikan dengan 65% Rosa Damascena Water, SYN®-AKE dan Argireline (dikenal sebagai BOTOX LIKE EFFECT) dan 10 human-identical peptide lainnya. </item>
+        <item>Terinspirasi dari tampilan berkilau Korean Glass Skin, serum ini menggabungkan duo powerful brightening dan antioxidant agent: Vitamin C (EAA) dan Ferulic, yang memiliki efek sinergis sempurna untuk mencerahkan kulit, serta 67% air ekstrak lemon Jeju yang kaya akan antioksidan sehingga efektif mengurangi flek hitam, keriput dan tampilan garis halus. Dengan Ethyl Ascorbic Acid (EAA) yang sudah teruji klinis mampu mencerahkan kulit dalam 4 minggu, dapatkan Fresh Juicy Glass Skin Effect seperti selebriti Korea. Agar semakin efektif, selalu gunakan Sunscreen di pagi hari.</item>
+        <item>Mengandung 9 jenis Hyaluronic Acid, B5 (Panthenol) dan Chlorella, berperan penting dalam meningkatkan produksi kolagen dan mengunci kelembaban maksimal hingga 48 jam ke lapisan kulit terdalam! Menenangkan kulit dan membersihkan pori-pori kulit. Baik untuk semua jenis kulit dan kulit sensitif.</item>
+        <item>Level-Up Encapsulated Retinol yang efektif dalam menyamarkan kerutan halus, membantu mengencangkan kulit, menjaga keremajaan dan kekenyalan kulit dengan Retinol yang merupakan Gold Standard for Anti-Aging. Didukung dengan Teknologi Enkapsulasi, membuatnya lebih stabil dan memiliki efikasi 2x lebih efektif dari retinol biasa, namun tetap gentle. Mengandung 4-t-Butylcyclohexanol yang teruji secara klinis dapat meredakan gejala iritasi (burning dan stinging reaction) dengan cepat. Gunakan pada malam hari dan wajib gunakan sunscreen di pagi hari. </item>
+        <item>Calming serum dengan formula gentle, ringan dan vegan yang menyasar kulit kemerahan dan sensitif. Dilengkapi paten inovatif Calm Down®, Madagascar Centella Asiatica, 5X Growth Factor Peptides dan Panthenol untuk menenangkan kulit dengan iritasi ringan, mencegah hilangnya kelembapan dan menutrisi kulit. Dengan pH 5,5 dan bahan low-irritant, Somethinc serum ini cocok untuk semua tipe kulit, bahkan kulit paling sensitif. Serum untuk skin barrier ini akan membuat kulit menjadi kuat, lembut, kenyal, serta warna kulit lebih merata.</item>
+    </string-array>
+</resources>

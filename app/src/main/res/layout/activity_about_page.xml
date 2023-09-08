@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AboutPageActivity"
+    >
+
+
+    <ImageView
+        android:id="@+id/iv_background"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:src="@color/blue_somethinc"/>
+
+<!--    library yang sudah ditambahkan di build gradle-->
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/iv_ProfilePhoto"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="-75dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/profil_vellyariona"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:text="Vellya Riona"
+        android:textColor="@color/blue_somethinc"
+        android:textSize="32sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="8dp"
+        android:gravity="center"
+        android:text="vellyariona@gmail.com"
+        android:textSize="20sp" />
+
+</LinearLayout>

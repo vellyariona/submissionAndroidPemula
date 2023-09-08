@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp"
+        tools:context=".DescriptionPageActivity">
+
+        <TextView
+            android:id="@+id/tv_detailName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="0dp"
+            android:fontFamily="@font/poppins_semibold"
+            android:gravity="center_horizontal"
+            android:textColor="@color/blue_somethinc"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            tools:text="Title Here" />
+
+        <TextView
+            android:id="@+id/tv_detailDescription"
+            android:layout_width="318dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="8dp"
+            android:fontFamily="@font/poppins_semibold"
+            android:gravity="center_horizontal"
+            android:textColor="#57949C"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            tools:text="Title Here" />
+
+        <ImageView
+            android:id="@+id/iv_detailPhoto"
+            android:layout_width="250dp"
+            android:layout_height="340dp"
+            android:layout_gravity="center"
+            android:scaleType="fitCenter"
+            android:src="@drawable/a_bakuchiol" />
+
+        <TextView
+            android:id="@+id/tv_detailDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="8dp"
+            android:fontFamily="@font/poppins"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            tools:text="Title Here" />
+
+    </LinearLayout>
+</ScrollView>
